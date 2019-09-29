@@ -1,0 +1,370 @@
+
+ .top {
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 564px;
+  position: absolute;
+  background-image: url("assets/top.jpg");
+}
+  
+.upper_part {
+  width: 1300px;
+  display: inline-flex;
+}
+
+  .logo {
+    display: flex;
+    margin-top: 2%;
+    margin-left: 10.7%;
+}
+
+  .logo_name {
+    font-size: 41.7px;
+    font-family: "Lucida Sans";
+    color: rgb( 255, 255, 255 );
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 1px 1.732px 0px rgb( 0, 0, 0 );
+    display: flex;
+    align-self: center;
+    margin-top: 3.9%;
+    margin-left: 1.2%;
+  }
+
+  .logo_icon {
+    display: flex;
+    align-self: center;
+    width: 83px;
+    height: 83px;
+  }
+
+  .nav_bar {
+    margin-top: 5.4%;
+    margin-left: 19.9%;
+    padding-left: 1.5%;
+    width: 433px;
+    height: 41px;
+    display: inline-flex;
+    align-items: center;
+    
+    background-color: #f5c506;
+    box-shadow: -4px -5px 0 rgba(245, 197, 6, 0.5);
+  }
+  
+  .nav_item {
+    margin-left: 3%;
+    height: 19px;
+  }
+
+  .nav_text{
+    margin-left: 2%;
+    margin-top: 0.6%;
+    margin-right: 3%;
+    font-size: 18px;
+    color: rgb( 155, 125, 8 );
+    text-transform: uppercase;
+    text-align: center;
+  }
+ 
+.nav_line {
+    margin-left: 0.5%;
+    height: 40px;
+}
+
+  .block_1 {
+    width: 1300px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .cool_minimal {
+    margin-top: 2%;
+    margin-left: 0%;
+    margin-right: 8%;
+    font-size: 63px;
+    font-family: "Asap";
+    letter-spacing: 0.7px;
+    color: rgb( 245, 197, 6 );
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  .minimal {
+    color: white;
+  }
+  
+  .player_1 {
+    margin-top: 4%;
+    margin-left: 6.5%;
+    width: 549px;
+    height: 327px;
+    
+  }
+
+  .arrows {
+    margin-top: 3.6%;
+    height: 57px;
+  }
+  
+  .block_2 {
+    position: absolute;
+    left: 0;
+    top: 564px;
+    width: 1300px;
+    height: 212px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url("assets/block_2.png");
+    box-shadow: 0px -2px 2px 0px #333333;
+  }
+
+  .icon1 {
+   margin-top: 2%;
+  }
+
+  .cloud {
+    margin-top: 1.5%;
+    margin-right: 1.5%;
+      width: 109px;
+      height: 74px;
+  }
+
+  .icon2 {
+    margin-left: 2%;
+  }
+
+  .leave {
+
+      width: 92px;
+      height: 95px;
+  }
+
+  .icon3 {
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+
+  .plane{
+      width: 81px;
+      height: 83px;
+  }
+
+  .bl2_text {
+    
+    margin-top: 5%;
+    font-size: 27.049px;
+    font-family: "Segoe UI";
+    color: rgb( 0, 0, 0 );
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+  .bl2line {
+   
+    height: 212px;
+  }
+
+  .bl2line_left {
+    margin-left: 10.75%;
+  }
+
+  .bl2line_right {
+    margin-right: 10.75%;
+  }
+ 
+  .block_3 {
+    position: absolute;
+    left: 0px;
+    top: 778px;
+    width: 1300px;
+    height: 509px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    background-image: url("assets/block_3.png");
+    box-shadow: inset 0px 2px 2px 0px #333333;
+  }
+   
+.bl3_lable {
+    margin-left: 11%;
+    margin-top: 2.5%;
+    font-size: 37.049px;
+    font-family: "PT Sans";
+    color: rgb( 255, 255, 255 );
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 0.1px;
+}
+
+.bl3_content {
+  margin-top: 2.35%;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.bl3_content_text {
+  font-size: 29.049px;
+  font-family: "SegoeWP";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.308;
+  text-align: left;
+  background-color: #ec9e03;
+  width: 341px;
+  height: 233px;
+}
+
+.bl3_content_text_only {
+  margin: 5%;
+}
+
+.bl3_content_player {
+  width: 315px;
+  height: 233px;
+}
+
+.bl3_content_twit {
+  margin-left: 3%;
+  background-image: url("assets/twitter.png");
+  width: 329px;
+  height: 233px;
+}
+
+.bl3_date {
+  margin-left: 10.7%; 
+  width: 113px;
+  height: 86px;
+  background-color: #ddb101;
+}
+
+.bl3_date_only {
+  margin-top: 5%;
+}
+
+._25 {
+  
+  font-size: 51.049px;
+  font-family: "Segoe UI";
+  color: rgb( 255, 255, 255 );
+  font-weight: bold;
+  line-height: 0.744;
+  text-align: center;
+}
+.april {
+  font-size: 21.049px;
+  font-family: "Segoe UI";
+  color: rgb( 178, 101, 41 );
+  line-height: 1.805;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.bl3_slider {
+  margin-left: 1%;
+  margin-top: 3%;
+  align-self: center;
+  width: 896px;
+  height: 15px;
+}
+
+.block_4 {
+  display: flex;
+  flex-flow: column wrap;
+  background-image: url("assets/block_4.png");
+  position: absolute;
+  left: 0px;
+  top: 1286px;
+  width: 1300px;
+  height: 499px;
+}
+
+.bl4_lable {
+  margin-top: 3%;
+    font-size: 43.049px;
+    font-family: "PTSans";
+    color: rgb( 245, 197, 6 );
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.bl4_content {
+  justify-content: center ;
+  display: inline-flex;
+}
+
+.bl4_content_image{
+    margin-left: 7%;
+    margin-top: 0.5%;
+    width: 560px;
+    height: 298px;
+  
+}
+
+.bl4_content_list {
+  margin-top: 5.5%;
+  margin-left: 5%;
+    font-size: 22px;
+    font-family: "OpenSans";
+    color: rgb( 169, 169, 167 );
+    text-align: left;
+}
+
+ul {
+  list-style-image: url("assets/li.png")
+}
+
+li {
+  margin-top: 6.5%;
+}
+
+footer {
+  display: inline-flex;
+  align-items: center;
+  background-image: url("assets/footer.png");
+  box-shadow: 0px -2px 2px 0px #333333;
+    position: absolute;
+    left: 0px;
+    top: 1785px;
+    width: 1300px;
+    height: 73px;
+
+}
+
+.footer_logo_icon {
+ margin-left: 11%;
+    width: 52px;
+    height: 52px;
+
+}
+
+.footer_logo_name {
+  margin-left: 0.7%;
+  font-size: 29.049px;
+  font-family: "Lucida Sans";
+  color: rgb( 255, 255, 255 );
+  font-style: italic;
+  text-transform: uppercase;
+  text-shadow: 1px 1.732px 0px rgb( 0, 0, 0 );
+}
+
+.plus {
+  background-image: url("assets/plus.png");
+  position: relative;
+  margin-left: 92%;
+  width: 11px;
+  height: 11px;
+}
+
+.plus_twet {
+  background-image: url("assets/plus.png");
+  position: relative;
+  margin-top: 65%;
+  margin-left: 92%;
+  width: 11px;
+  height: 11px;
+}
